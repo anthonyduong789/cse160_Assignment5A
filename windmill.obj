@@ -1,6 +1,6 @@
 # Blender 4.1.1
 # www.blender.org
-mtllib windmill_001.mtl
+mtllib windmill.mtl
 o lopatky
 v 2.358657 6.545160 -0.077003
 v 2.298979 6.544571 -0.077453
